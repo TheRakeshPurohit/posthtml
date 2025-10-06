@@ -316,8 +316,8 @@ import pug from 'posthtml-pug'
 posthtml().process(html, { parser: pug(options) }).then((result) => result.html)
 ```
 
-| Name |Status|Description|
-|:-----|:-----|:----------|
+| Name |Description|
+|:-----|:----------|
 |[posthtml-pug](https://github.com/posthtml/posthtml-pug)|Pug Parser|
 |[sugarml](https://github.com/posthtml/sugarml)|SugarML Parser|
 
