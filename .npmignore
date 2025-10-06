@@ -3,15 +3,16 @@
 .gitignore
 .mversionrc
 .travis.yml
+.lintstagedrc
+changelog.md
 
 npm-debug.log
 
-CHANGELOG.md
-CONTRIBUTING.md
-MAINTAINERS
-
 # DIRECTORIES
+.github
+.husky
+coverage
 docs
 test
-coverage
+
 node_modules
