@@ -1,10 +1,23 @@
+## <small>0.16.7 (2025-10-07)</small>
+
+* fix: fix configure ([0c05bf1](https://github.com/posthtml/posthtml/commit/0c05bf1))
+* ci: updates nodejs ([5134ce5](https://github.com/posthtml/posthtml/commit/5134ce5))
+* fix #395 ([b161177](https://github.com/posthtml/posthtml/commit/b161177)), closes [#395](https://github.com/posthtml/posthtml/issues/395)
+* Remove david-dm from README ([9dc4d12](https://github.com/posthtml/posthtml/commit/9dc4d12))
+* Update readme.md ([cc3571d](https://github.com/posthtml/posthtml/commit/cc3571d))
+* Update readme.md ([d8e3b3d](https://github.com/posthtml/posthtml/commit/d8e3b3d))
+* build: fix husky hooks ([1fc2a09](https://github.com/posthtml/posthtml/commit/1fc2a09))
+
+
+
 ## <small>0.16.6 (2022-02-25)</small>
 
+* 0.16.6 ([b3fd4ad](https://github.com/posthtml/posthtml/commit/b3fd4ad))
+* Update readme.md ([c22b046](https://github.com/posthtml/posthtml/commit/c22b046))
 * build: update dep dev ([207f092](https://github.com/posthtml/posthtml/commit/207f092))
 * build(deps): bump path-parse from 1.0.6 to 1.0.7 ([d55bc10](https://github.com/posthtml/posthtml/commit/d55bc10))
 * build(deps): bump shelljs from 0.8.4 to 0.8.5 ([2ee4600](https://github.com/posthtml/posthtml/commit/2ee4600))
 * docs(plugin): fix API doc link ([28852d7](https://github.com/posthtml/posthtml/commit/28852d7))
-* Update readme.md ([c22b046](https://github.com/posthtml/posthtml/commit/c22b046))
 
 
 
